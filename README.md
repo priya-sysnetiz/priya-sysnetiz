@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Priya
+- 👋 Hi, I’m Priya V
 - 👀 I’m interested in Puzzles, 5S, Detecting, Cooking
 - 🌱 I’m currently learning Automation
 - 💞️ I’m looking to collaborate on Software Testing
